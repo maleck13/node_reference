@@ -1,4 +1,6 @@
 'use strict';
+
+//Never generated
 module.exports =  function deployService (config, logger) {
     return {
         "deploy": function (deployCtx) {

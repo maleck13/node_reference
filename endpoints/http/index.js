@@ -1,4 +1,4 @@
-//generated but only once
+//generated but only once. New endpoints would be hooked up manually after generation
 "use strict";
 var fhlogger = require('fh-logger');
 var fhconfig = require('fh-config');

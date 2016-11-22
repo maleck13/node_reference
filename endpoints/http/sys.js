@@ -1,4 +1,5 @@
-
+"use strict";
+//generated initially
 
 exports.sysPingEndpoint = function sysPingEndpoint(server){
     function endpoint(req,res,next){

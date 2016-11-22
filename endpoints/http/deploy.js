@@ -31,7 +31,7 @@ exports.deployEndpoint = function deployEndpoint(server, service){
 
 /**
  *
- * Initial generation 
+ * Initial generation would look like this but user free to modify afterwards
 const validate = require('express-jsonschema').validate;
 const deplyCtx = require('../../context/deploy.js')
 

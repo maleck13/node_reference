@@ -1,5 +1,7 @@
 'use strict';
 
+//Could be generated once and then left to the user's own devices.
+
 var express = require('express');
 var fhconfig = require('fh-config');
 var cors = require('cors');
